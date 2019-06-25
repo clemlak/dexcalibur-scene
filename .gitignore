@@ -9,6 +9,7 @@
 # build
 /build
 /bin
+/export
 
 # misc
 .DS_Store
