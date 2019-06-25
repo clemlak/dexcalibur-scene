@@ -5,20 +5,15 @@
 
 > Discover the famour Excalibur hidden in Decentraland
 
-## Have fun
+<p>
+  <img src="https://ipfs.globalupload.io/QmZBtPWjd9CQgMi9Mb9eddysaqBSFE4PwyA43sHQPgUBD3" />
+</p>
 
-You can explore the scene through this link: https://export.clemlak.now.sh/ :)
+## Introduction
 
-## Install
+Dexcalibur is a scene created through the Decentraland SDK (https://docs.decentraland.org).
+You can explore it here: https://export.clemlak.now.sh/ :)
 
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
 ```
 
 ## Author
