@@ -14,8 +14,6 @@
 Dexcalibur is a scene created through the Decentraland SDK (https://docs.decentraland.org).
 You can explore it here: https://export.clemlak.now.sh/ :)
 
-```
-
 ## Author
 
 👤 **Clemlak**
