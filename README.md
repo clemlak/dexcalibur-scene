@@ -5,6 +5,10 @@
 
 > Discover the famour Excalibur hidden in Decentraland
 
+## Have fun
+
+You can explore the scene through this link: https://export.clemlak.now.sh/ :)
+
 ## Install
 
 ```sh
