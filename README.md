@@ -12,7 +12,9 @@
 ## Introduction
 
 Dexcalibur is a scene created through the Decentraland SDK (https://docs.decentraland.org).
-You can explore it here: https://export.clemlak.now.sh/ :)
+It displays a small hill with the famous Excalibur on top. You can interact with the sword by clicking on it. If you are the real King, the sword will be transferred to you as an NFT.
+
+Go explore here: https://export.clemlak.now.sh/ :)
 
 ## Author
 
